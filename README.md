@@ -1,9 +1,9 @@
 - 👋 Hi, I’m @desnderitu
-- 👀 I’m interested in ...web development and game development
-- 🌱 I’m currently learning ... software engineering
+- 👀 I’m interested in ...AI and Machine Learning
+- 🌱 I’m currently learning ... Data science
 - 💞️ I’m looking to collaborate on ...
 
-- 📫 How to reach me ...nderitudenis45@gmail.com
+- 📫 How to reach me ...dnderitu6073@gmail.com
 
 <!---
 Gachihinderitu/Gachihinderitu is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
