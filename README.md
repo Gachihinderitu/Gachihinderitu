@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Gachihinderitu
+- 👋 Hi, I’m @desnderitu
 - 👀 I’m interested in ...web development and game development
 - 🌱 I’m currently learning ... software engineering
 - 💞️ I’m looking to collaborate on ...
